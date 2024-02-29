@@ -22,6 +22,11 @@ const items = [
     image: require("../assets/images/soft-drink.png"),
     text: "Soft Drink",
   },
+  ,
+  {
+    image: require("../assets/images/coffee.png"),
+    text: "Coffee and Tea",
+  },
 ];
 
 const Categories = () => {
